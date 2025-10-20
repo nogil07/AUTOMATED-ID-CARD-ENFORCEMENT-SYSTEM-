@@ -1,0 +1,10 @@
+insightface
+onnxruntime # or onnxruntime-gpu
+scipy
+numpy
+pandas
+opencv-python
+ultralytics
+Pillow
+Flask
+configparser
