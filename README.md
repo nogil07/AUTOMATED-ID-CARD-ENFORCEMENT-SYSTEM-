@@ -94,6 +94,4 @@ python app.py
 * Real-time video depends on system performance
 * Captured images require privacy compliance
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
